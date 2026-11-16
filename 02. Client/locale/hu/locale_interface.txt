@@ -1,0 +1,2 @@
+CANCEL	Megszakít
+OK	OK

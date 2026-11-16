@@ -1,0 +1,5 @@
+REFINE_FAILURE	Tja, hat nicht geklappt! Wir haben versagt.
+REFINE_SUCCESS	Die Gegenstandsverbesserung war erfolgreich.
+REFINE_WARNING2	Möchtest du mit der Aufwertung fortfahren?
+TOOLTIP_ITEM_LIMIT_LEVEL	Ab Lvl: %d
+UI_OK	OK

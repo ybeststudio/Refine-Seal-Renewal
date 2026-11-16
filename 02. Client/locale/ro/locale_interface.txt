@@ -1,0 +1,2 @@
+CANCEL	Anulare
+OK	OK

@@ -1,0 +1,5 @@
+REFINE_FAILURE	Oh não, não funcionou! Falhámos.
+REFINE_SUCCESS	O melhoramento do Item foi bem sucedido!
+REFINE_WARNING2	Queres continuar com o melhoramento?
+TOOLTIP_ITEM_LIMIT_LEVEL	Nível Mínimo: %d
+UI_OK	OK

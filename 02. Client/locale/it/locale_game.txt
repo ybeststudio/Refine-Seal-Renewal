@@ -1,0 +1,5 @@
+REFINE_FAILURE	Non è andata... Non ce l'abbiamo fatta.
+REFINE_SUCCESS	Il miglioramento è riuscito con successo.
+REFINE_WARNING2	Vuoi eseguire il miglioramento?
+TOOLTIP_ITEM_LIMIT_LEVEL	Da liv: %d
+UI_OK	Ok

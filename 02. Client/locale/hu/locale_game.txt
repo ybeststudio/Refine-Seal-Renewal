@@ -1,0 +1,5 @@
+REFINE_FAILURE	Jaj, ne, ez nem mûködött! Elhibáztuk!
+REFINE_SUCCESS	A tárgy javítás sikeres volt.
+REFINE_WARNING2	Szeretnéd folytatni a fejlesztést?
+TOOLTIP_ITEM_LIMIT_LEVEL	%d. szinttõl
+UI_OK	OK

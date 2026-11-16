@@ -1,0 +1,15 @@
+REFINE_RENEWAL_COST	Coût de la progression : |cffc79e65{0} Yang|r |Eemoji/money_icon|e
+REFINE_RENEWAL_DESTROY	Si l'amélioration échoue, l'objet sera détruit.
+REFINE_RENEWAL_DOWNGRADE	Si l'amélioration échoue, le niveau de l'objet baissera d'un cran.
+REFINE_RENEWAL_FAIL_WARNING	L'amélioration peut échouer.
+REFINE_RENEWAL_KEEP	Si l'amélioration échoue, le niveau de l'objet est conservé.
+REFINE_RENEWAL_NO_PITY	Pitié non disponible pour cet objet.
+REFINE_RENEWAL_NO_SEAL	Vous n'avez pas assez de |cFFc79e65{0}|h|r.
+REFINE_RENEWAL_PITY	Chance d'amélioration à 100% : {0} / {1}
+REFINE_RENEWAL_REQUIREMENTS	Prérequis
+REFINE_RENEWAL_RESULT	Résultat de l'amélioration
+REFINE_RENEWAL_SEAL_CHANCE	Probabilité de réussite : +{0}%
+REFINE_RENEWAL_SEAL_NAME	{0} ({1})
+REFINE_RENEWAL_SURE	Le taux de réussite est de 100%. L'objet gagnera un niveau.
+REFINE_RENEWAL_SURE_QUESTION	Voulez-vous vraiment améliorer l'objet ?
+REFINE_RENEWAL_TITLE	Correction de Pierre

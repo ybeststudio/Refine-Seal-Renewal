@@ -1,0 +1,5 @@
+REFINE_FAILURE	··√”›°·„ ‰‰ÃÕ! ·ﬁœ ›‘·‰«.
+REFINE_SUCCESS	·ﬁœ  „  Õ”Ì‰ Â–« «·»‰œ »‰Ã«Õ.
+REFINE_WARNING2	Â·  —Ìœ «·«” „—«— »«· Õ”Ì‰ø
+TOOLTIP_ITEM_LIMIT_LEVEL	«» œ«¡ „‰ «·„” ÊÏ: %d
+UI_OK	„Ê«›ﬁ

@@ -1,0 +1,15 @@
+REFINE_RENEWAL_COST	ЪпЧсэн ЧсЪоЯу: |cffc79e65{0} Yang|r |Eemoji/money_icon|e
+REFINE_RENEWAL_DESTROY	ХаЧ ндсЪ ЧсЪбоэЩЁ гэЪу ЪЯуэб Чскфеб.
+REFINE_RENEWAL_DOWNGRADE	ХаЧ ндсЪ ЧсЪбоэЩЁ гэфЮнж угЪць Чскфеб ШуоЯЧб цЧЭЯ.
+REFINE_RENEWAL_FAIL_WARNING	оЯ Ъндс кусэЩ ЪфоэЩ Чскфеб.
+REFINE_RENEWAL_KEEP	ХаЧ ндсЪ ЧсЪбоэЩЁ эШоь угЪць Чскфеб пуЧ хц.
+REFINE_RENEWAL_NO_PITY	нбеЩ ЧсЪбоэЩ 100% лэб уЪЧЭЩ схаЧ Чскфеб.
+REFINE_RENEWAL_NO_SEAL	сэг сЯэп |cFFc79e65{0}|h|r пЧнђ.
+REFINE_RENEWAL_PITY	нбеЩ ЧсЪбоэЩ 100%: {0} / {1}
+REFINE_RENEWAL_REQUIREMENTS	ЧсуЪисШЧЪ
+REFINE_RENEWAL_RESULT	фЪэЬЩ ЧсЪбоэЩ
+REFINE_RENEWAL_SEAL_CHANCE	ЧЭЪуЧсэЩ фЬЧЭ ЧсЪбоэЩ: +{0}%
+REFINE_RENEWAL_SEAL_NAME	{0} ({1})
+REFINE_RENEWAL_SURE	фгШЩ ЧсфЬЧЭ 100%. гэбЪнк угЪць Чскфеб угЪць цЧЭЯЧ№.
+REFINE_RENEWAL_SURE_QUESTION	хс ЪбэЯ ЭоЧ№ ЪбоэЩ ЧскфебП
+REFINE_RENEWAL_TITLE	ЪеЭэЭ ЧсЭЬб

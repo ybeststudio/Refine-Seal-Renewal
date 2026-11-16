@@ -1,0 +1,15 @@
+REFINE_RENEWAL_COST	Ýlerleme Maliyetleri: |cffc79e65{0} Yang|r |Eemoji/money_icon|e
+REFINE_RENEWAL_DESTROY	Yükseltme baþarýsýz olursa, eþya yok edilecektir.
+REFINE_RENEWAL_DOWNGRADE	Yükseltme baþarýsýz olursa, eþyanýn seviyesi bir düþecektir.
+REFINE_RENEWAL_FAIL_WARNING	Itemi ayrýntýlandýrma baþarýsýz olabilir.
+REFINE_RENEWAL_KEEP	Yükseltme baþarýsýz olursa, eþyanýn seviyesi korunur.
+REFINE_RENEWAL_NO_PITY	%100 Yükseltme Þansý bu itemde mevcut deðil.
+REFINE_RENEWAL_NO_SEAL	Yeterli |cFFc79e65{0}|h|r'niz yok.
+REFINE_RENEWAL_PITY	%100 Yükseltme Þansý: {0} / {1}
+REFINE_RENEWAL_REQUIREMENTS	Gereksinimler
+REFINE_RENEWAL_RESULT	Yükseltme Sonucu
+REFINE_RENEWAL_SEAL_CHANCE	Yükseltme Baþarý Olasýlýðý: +{0}%
+REFINE_RENEWAL_SEAL_NAME	{0} ({1})
+REFINE_RENEWAL_SURE	Baþarý oraný %100'dür. Item bir seviye kazanacaktýr.
+REFINE_RENEWAL_SURE_QUESTION	Itemi gerçekten yükseltmek istiyor musunuz?
+REFINE_RENEWAL_TITLE	Taþ Düzeltme

@@ -1,0 +1,15 @@
+REFINE_RENEWAL_COST	Custo de Melhoria: |cffc79e65{0} Yang|r |Eemoji/money_icon|e
+REFINE_RENEWAL_DESTROY	Se a melhoria falhar, o item será destruído.
+REFINE_RENEWAL_DOWNGRADE	Se a melhoria falhar, o nível do item cairá um.
+REFINE_RENEWAL_FAIL_WARNING	O refinamento do item pode falhar.
+REFINE_RENEWAL_KEEP	Se a melhoria falhar, o nível do item será mantido.
+REFINE_RENEWAL_NO_PITY	Pena não estar disponível neste item.
+REFINE_RENEWAL_NO_SEAL	Você não tem |cFFc79e65{0}|h|r suficiente.
+REFINE_RENEWAL_PITY	%100 Yükseltme Sansi: {0} / {1}
+REFINE_RENEWAL_REQUIREMENTS	Requisitos
+REFINE_RENEWAL_RESULT	Resultado da Melhoria
+REFINE_RENEWAL_SEAL_CHANCE	Chance de Sucesso da Melhoria: +{0}%
+REFINE_RENEWAL_SEAL_NAME	{0} ({1})
+REFINE_RENEWAL_SURE	A taxa de sucesso é de 100%. O item ganhará um nível.
+REFINE_RENEWAL_SURE_QUESTION	Realmente desejas melhorar o item?
+REFINE_RENEWAL_TITLE	Correção da Pedra

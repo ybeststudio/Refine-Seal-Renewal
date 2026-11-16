@@ -1,0 +1,5 @@
+REFINE_FAILURE	Tüh, olmadý. Beceremedik.
+REFINE_SUCCESS	Nesnenin yükseltilmesi baþarýyla tamamlandý.
+REFINE_WARNING2	Bu geliþtirmeye devam etmek istiyor musun?
+TOOLTIP_ITEM_LIMIT_LEVEL	Seviye: %d
+UI_OK	OK

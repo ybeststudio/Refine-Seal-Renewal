@@ -1,0 +1,5 @@
+REFINE_FAILURE	To nefunguje! Selhali jsme.
+REFINE_SUCCESS	Toto zlepšení pøedmìtu bylo úspìšné.
+REFINE_WARNING2	Chceš si pokraèovat ve vylepšování?
+TOOLTIP_ITEM_LIMIT_LEVEL	Od úrovnì: %d
+UI_OK	OK

@@ -1,0 +1,5 @@
+REFINE_FAILURE	Oj, nie uda³o siê. Zawiedliœmy.
+REFINE_SUCCESS	Przedmiot zosta³ ulepszony.
+REFINE_WARNING2	Chcesz kontynuowaæ ulepszanie?
+TOOLTIP_ITEM_LIMIT_LEVEL	Od Poziomu: %d
+UI_OK	OK

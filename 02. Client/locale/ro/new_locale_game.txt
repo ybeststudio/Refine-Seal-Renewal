@@ -1,0 +1,15 @@
+REFINE_RENEWAL_COST	Costuri de progres: |cffc79e65{0} Yang|r |Eemoji/money_icon|e
+REFINE_RENEWAL_DESTROY	Daca obiectul esueaza, acesta va fi distrus.
+REFINE_RENEWAL_DOWNGRADE	Dacã îmbunãtãþirea eºueazã, nivelul obiectului va scãdea cu unu.
+REFINE_RENEWAL_FAIL_WARNING	Rafinarea articolului poate esua.
+REFINE_RENEWAL_KEEP	Dacã îmbunãtãþirea eºueazã, nivelul obiectului se pãstreazã.
+REFINE_RENEWAL_NO_PITY	Pacat ca nu este disponibil pentru acest articol.
+REFINE_RENEWAL_NO_SEAL	Nu ai suficient |cFFc79e65{0}|h|r.
+REFINE_RENEWAL_PITY	ªansã de îmbunãtãþire %100: {0} / {1}
+REFINE_RENEWAL_REQUIREMENTS	Cerinte
+REFINE_RENEWAL_RESULT	Rezultat upgrade
+REFINE_RENEWAL_SEAL_CHANCE	ªansã de succes la îmbunãtãþire: +{0}%
+REFINE_RENEWAL_SEAL_NAME	{0} ({1})
+REFINE_RENEWAL_SURE	Rata de succes este %100. Obiectul va câºtiga un nivel.
+REFINE_RENEWAL_SURE_QUESTION	Chiar doriti sa faceti upgrade articolului?
+REFINE_RENEWAL_TITLE	Corectare Pietre

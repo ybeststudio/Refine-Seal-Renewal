@@ -1,0 +1,2 @@
+// Ekle:
+#define ENABLE_REFINE_SEAL_RENEWAL

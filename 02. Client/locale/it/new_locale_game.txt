@@ -1,0 +1,15 @@
+REFINE_RENEWAL_COST	Costi di avanzamento: |cffc79e65{0} Yang|r |Eemoji/money_icon|e
+REFINE_RENEWAL_DESTROY	Se il potenziamento fallisce, l'oggetto verrà distrutto.
+REFINE_RENEWAL_DOWNGRADE	Se il potenziamento fallisce, il livello dell'oggetto scenderà di uno.
+REFINE_RENEWAL_FAIL_WARNING	Il perfezionamento dell'articolo potrebbe non riuscire.
+REFINE_RENEWAL_KEEP	Se il potenziamento fallisce, il livello dell'oggetto viene mantenuto.
+REFINE_RENEWAL_NO_PITY	Peccato non disponibile su questo articolo.
+REFINE_RENEWAL_NO_SEAL	Non hai abbastanza |cFFc79e65{0}|h|r.
+REFINE_RENEWAL_PITY	Potenziamento garantito al 100%: {0} / {1}
+REFINE_RENEWAL_REQUIREMENTS	Requisiti
+REFINE_RENEWAL_RESULT	Risultato dell'aggiornamento
+REFINE_RENEWAL_SEAL_CHANCE	Probabilità di successo del potenziamento: +{0}%
+REFINE_RENEWAL_SEAL_NAME	{0} ({1})
+REFINE_RENEWAL_SURE	La percentuale di successo è del 100%. L'oggetto guadagnerà un livello.
+REFINE_RENEWAL_SURE_QUESTION	Vuoi davvero aggiornare l'oggetto?
+REFINE_RENEWAL_TITLE	Correzione Pietra

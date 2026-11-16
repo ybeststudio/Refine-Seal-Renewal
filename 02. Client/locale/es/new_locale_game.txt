@@ -1,0 +1,15 @@
+REFINE_RENEWAL_COST	Coste de progreso: |cffc79e65{0} Yang|r |Eemoji/money_icon|e
+REFINE_RENEWAL_DESTROY	Si la mejora falla, el objeto será destruido.
+REFINE_RENEWAL_DOWNGRADE	Si la mejora falla, el nivel del objeto bajará uno.
+REFINE_RENEWAL_FAIL_WARNING	La mejora del objeto puede fallar.
+REFINE_RENEWAL_KEEP	Si la mejora falla, el nivel del objeto se mantiene.
+REFINE_RENEWAL_NO_PITY	Piedad no disponible para este objeto.
+REFINE_RENEWAL_NO_SEAL	No tienes suficiente |cFFc79e65{0}|h|r.
+REFINE_RENEWAL_PITY	Probabilidad de mejora %100: {0} / {1}
+REFINE_RENEWAL_REQUIREMENTS	Requisitos
+REFINE_RENEWAL_RESULT	Resultado de Mejora
+REFINE_RENEWAL_SEAL_CHANCE	Probabilidad de éxito de la mejora: +{0}%
+REFINE_RENEWAL_SEAL_NAME	{0} ({1})
+REFINE_RENEWAL_SURE	Success rate is 100%. The item will gain a level.
+REFINE_RENEWAL_SURE_QUESTION	¿Realmente deseas mejorar el objeto?
+REFINE_RENEWAL_TITLE	Corrección de Piedras

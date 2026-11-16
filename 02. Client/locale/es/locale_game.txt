@@ -1,0 +1,5 @@
+REFINE_FAILURE	¡Vaya, no ha funcionado! Hemos fallado.
+REFINE_SUCCESS	La mejora del objeto se ha realizado con éxito.
+REFINE_WARNING2	¿Quieres realizar la mejora?
+TOOLTIP_ITEM_LIMIT_LEVEL	Desde el nivel: %d
+UI_OK	OK

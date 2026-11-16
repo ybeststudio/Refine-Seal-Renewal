@@ -1,0 +1,5 @@
+REFINE_FAILURE	Oh nu, nu a mers! Ai eºuat.
+REFINE_SUCCESS	Îmbunãtãþirea obiectului a reuºit.
+REFINE_WARNING2	Doreºti sã continui cu îmbunãtãþirea?
+TOOLTIP_ITEM_LIMIT_LEVEL	De la nivelul: %d
+UI_OK	OK

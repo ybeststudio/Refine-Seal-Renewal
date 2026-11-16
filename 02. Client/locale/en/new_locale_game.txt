@@ -1,0 +1,15 @@
+REFINE_RENEWAL_COST	Upgrade Costs: |cffc79e65{0} Yang|r |Eemoji/money_icon|e
+REFINE_RENEWAL_DESTROY	If the upgrade fails, the item will be destroyed.
+REFINE_RENEWAL_DOWNGRADE	If the upgrade fails, the item's level will drop by one.
+REFINE_RENEWAL_FAIL_WARNING	Item refinement may fail.
+REFINE_RENEWAL_KEEP	If the upgrade fails, the item's level is kept.
+REFINE_RENEWAL_NO_PITY	Pity not available on this item.
+REFINE_RENEWAL_NO_SEAL	You do not have enough |cFFc79e65{0}|h|r.
+REFINE_RENEWAL_PITY	%100 Upgrade Chance: {0} / {1}
+REFINE_RENEWAL_REQUIREMENTS	Requirements
+REFINE_RENEWAL_RESULT	Upgrade Result
+REFINE_RENEWAL_SEAL_CHANCE	Upgrade Success Chance: +{0}%
+REFINE_RENEWAL_SEAL_NAME	{0} ({1})
+REFINE_RENEWAL_SURE	Success rate is 100%. The item will gain a level.
+REFINE_RENEWAL_SURE_QUESTION	Do you really want to upgrade the item?
+REFINE_RENEWAL_TITLE	Stone Correction

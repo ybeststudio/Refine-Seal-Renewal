@@ -1,0 +1,15 @@
+REFINE_RENEWAL_COST	Náklady na postup: |cffc79e65{0} Yang|r |Eemoji/money_icon|e
+REFINE_RENEWAL_DESTROY	Pokud vylepšení selže, pøedmìt bude znièen.
+REFINE_RENEWAL_DOWNGRADE	Pokud vylepšení selže, úroveò pøedmìtu klesne o jedna.
+REFINE_RENEWAL_FAIL_WARNING	Upøesnìní položky mùže selhat.
+REFINE_RENEWAL_KEEP	Pokud vylepšení selže, úroveò pøedmìtu zùstane zachována.
+REFINE_RENEWAL_NO_PITY	Škoda není u této položky k dispozici.
+REFINE_RENEWAL_NO_SEAL	Nemáš dost |cFFc79e65{0}|h|r.
+REFINE_RENEWAL_PITY	%100 šance na vylepšení: {0} / {1}
+REFINE_RENEWAL_REQUIREMENTS	Požadavky
+REFINE_RENEWAL_RESULT	Výsledek upgradu
+REFINE_RENEWAL_SEAL_CHANCE	Šance na úspìšné vylepšení: +{0}%
+REFINE_RENEWAL_SEAL_NAME	{0} ({1})
+REFINE_RENEWAL_SURE	Úspìšnost je 100%. Pøedmìt získá úroveò.
+REFINE_RENEWAL_SURE_QUESTION	Opravdu chcete upgradovat položku?
+REFINE_RENEWAL_TITLE	Úprava kamene

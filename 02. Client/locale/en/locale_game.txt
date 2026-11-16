@@ -1,0 +1,5 @@
+REFINE_FAILURE	Oh no, that didn't work! We've failed.
+REFINE_SUCCESS	The advancement of the Item was successful.
+REFINE_WARNING2	Do you want to continue with the upgrade?
+TOOLTIP_ITEM_LIMIT_LEVEL	From Level: %d
+UI_OK	OK

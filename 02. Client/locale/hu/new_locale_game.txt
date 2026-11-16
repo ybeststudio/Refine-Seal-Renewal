@@ -1,0 +1,15 @@
+REFINE_RENEWAL_COST	Fejlesztés költsége: |cffc79e65{0} Yang|r |Eemoji/money_icon|e
+REFINE_RENEWAL_DESTROY	Sikertelen fejlesztés esetén a tárgy megsemmisül.
+REFINE_RENEWAL_DOWNGRADE	Sikertelen fejlesztés esetén a tárgy szintje eggyel csökken.
+REFINE_RENEWAL_FAIL_WARNING	A tétel finomítása sikertelen lehet.
+REFINE_RENEWAL_KEEP	Sikertelen fejlesztés esetén a tárgy szintje megmarad.
+REFINE_RENEWAL_NO_PITY	Kár, hogy ennél a tételnél nem elérhetõ.
+REFINE_RENEWAL_NO_SEAL	Nincs elég |cFFc79e65{0}|h|r.
+REFINE_RENEWAL_PITY	%100 Yükseltme Sansi: {0} / {1}
+REFINE_RENEWAL_REQUIREMENTS	Követelmények
+REFINE_RENEWAL_RESULT	Frissítés eredménye
+REFINE_RENEWAL_SEAL_CHANCE	Fejlesztés sikerességi esélye: +{0}%
+REFINE_RENEWAL_SEAL_NAME	{0} ({1})
+REFINE_RENEWAL_SURE	A siker aránya 100%. Az elem szintet kap.
+REFINE_RENEWAL_SURE_QUESTION	Valóban frissíteni szeretné az elemet?
+REFINE_RENEWAL_TITLE	Kõ fejlesztés

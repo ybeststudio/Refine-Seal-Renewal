@@ -1,0 +1,15 @@
+REFINE_RENEWAL_COST	Koszt ulepszenia: |cffc79e65{0} Yang|r |Eemoji/money_icon|e
+REFINE_RENEWAL_DESTROY	Jeœli ulepszenie siê nie powiedzie, przedmiot zostanie zniszczony.
+REFINE_RENEWAL_DOWNGRADE	Jeœli ulepszenie siê nie powiedzie, poziom przedmiotu spadnie o jeden.
+REFINE_RENEWAL_FAIL_WARNING	Udoskonalanie elementu mo¿e siê nie powieœæ.
+REFINE_RENEWAL_KEEP	Jeœli ulepszenie siê nie powiedzie, poziom przedmiotu zostanie zachowany.
+REFINE_RENEWAL_NO_PITY	Szkoda, ¿e nie jest dostêpna w przypadku tego przedmiotu.
+REFINE_RENEWAL_NO_SEAL	Nie masz wystarczaj¹cej iloœci |cFFc79e65{0}|h|r.
+REFINE_RENEWAL_PITY	%100 Yükseltme Sansi: {0} / {1}
+REFINE_RENEWAL_REQUIREMENTS	Wymagania
+REFINE_RENEWAL_RESULT	Wynik ulepszenia
+REFINE_RENEWAL_SEAL_CHANCE	Szansa powodzenia ulepszenia: +{0}%
+REFINE_RENEWAL_SEAL_NAME	{0} ({1})
+REFINE_RENEWAL_SURE	WskaŸnik sukcesu wynosi 100%. Przedmiot zyska poziom.
+REFINE_RENEWAL_SURE_QUESTION	Czy na pewno chcesz ulepszyæ przedmiot?
+REFINE_RENEWAL_TITLE	Korekta Kamienia

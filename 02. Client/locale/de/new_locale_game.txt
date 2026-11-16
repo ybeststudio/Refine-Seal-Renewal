@@ -1,0 +1,15 @@
+REFINE_RENEWAL_COST	Fortschrittskosten: |cffc79e65{0} Yang|r |Eemoji/money_icon|e
+REFINE_RENEWAL_DESTROY	Wenn die Verbesserung fehlschlägt, wird der Gegenstand zerstört.
+REFINE_RENEWAL_DOWNGRADE	Wenn die Verbesserung fehlschlägt, sinkt die Stufe des Gegenstands um eins.
+REFINE_RENEWAL_FAIL_WARNING	Verfeinerung kann fehlschlagen.
+REFINE_RENEWAL_KEEP	Wenn die Verbesserung fehlschlägt, bleibt die Stufe des Gegenstands erhalten.
+REFINE_RENEWAL_NO_PITY	Pity ist für dieses Item nicht verfügbar.
+REFINE_RENEWAL_NO_SEAL	Du hast nicht genug |cFFc79e65{0}|h|r.
+REFINE_RENEWAL_PITY	100% Verbesserungschance: {0} / {1}
+REFINE_RENEWAL_REQUIREMENTS	Voraussetzungen
+REFINE_RENEWAL_RESULT	Upgrade Ergebnis
+REFINE_RENEWAL_SEAL_CHANCE	Erfolgswahrscheinlichkeit der Verbesserung: +{0}%
+REFINE_RENEWAL_SEAL_NAME	{0} ({1})
+REFINE_RENEWAL_SURE	Erfolgsrate 100%. Das Item steigt eine Stufe auf.
+REFINE_RENEWAL_SURE_QUESTION	Willst du das Item wirklich verbessern?
+REFINE_RENEWAL_TITLE	Stein Korrektur
